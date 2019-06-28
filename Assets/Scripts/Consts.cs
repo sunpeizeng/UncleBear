@@ -1,0 +1,243 @@
+using System.Collections;
+using System.Collections.Generic;
+
+public class Consts
+{
+	public const string APP_ID = "104";
+    #region 物品ID
+    public const string ITEM_PIZZA = "item_pizza";
+    public const string ITEM_KETCHUPBOTTLE = "item_ketchupBottle";
+    public const string ITEM_KETCHUPPIECE = "item_ketchupPiece";
+    public const string ITEM_CONVEYOR = "item_conveyor";
+    public const string ITEM_CHEESE = "item_cheese";
+    public const string ITEM_CHEESESTICK = "item_cheeseStick";
+    public const string ITEM_BOWL = "item_bowl";
+    public const string ITEM_BOWLSMALL = "item_bowlSmall";
+    public const string ITEM_GRATER = "item_grater";
+    public const string ITEM_BAMBOO = "item_bamboo";
+    public const string ITEM_NORI = "item_nori";
+    public const string ITEM_RICE = "item_rice";
+    public const string ITEM_RICEBUCKET = "item_riceBucket";
+    public const string ITEM_SUSHISCROLL = "item_sushiScroll";
+    public const string ITEM_LETTUCE = "item_lettuce";
+    public const string ITEM_FRIDGE = "item_fridge";
+    public const string ITEM_FRIDGELAYER = "item_fridgeLayer";
+    public const string ITEM_FRIDGEPLATE = "item_fridgePlate";
+    public const string ITEM_PAN = "item_pan";
+    public const string ITEM_CUTBOARD = "item_cutboard";
+    public const string ITEM_POT = "item_pot";
+    public const string ITEM_PAPERCUP = "item_paperCup";
+    public const string ITEM_EGG = "item_egg";
+    public const string ITEM_CUPCAKE = "item_cupcake";
+    public const string ITEM_CREAM = "item_cream";
+    public const string ITEM_PIPINGBAG = "item_pipingBag";
+    public const string ITEM_SYRINGE = "item_syringe";
+    public const string ITEM_CAKEDECOR = "item_cakeDecor";
+    public const string ITEM_CAKECONVEYOR = "item_cakeConveyor";
+    public const string ITEM_CAKEBEAR = "item_cakeBear";
+    public const string ITEM_CAKECHESTNUT = "item_cakeChestnut";
+    public const string ITEM_CAKECHOCO = "item_cakeChoco";
+    public const string ITEM_CAKEFRUIT = "item_cakeFruit";
+    public const string ITEM_CAKEBERRY = "item_cakeBerry";
+    public const string ITEM_CAKEWAFFLES = "item_cakeWaffles";
+    public const string ITEM_FLUID = "item_fluid";
+    public const string ITEM_FLUIDCUSTOM = "item_fluidCustom";
+    public const string ITEM_EGGBEATER = "item_eggBeater";
+    public const string ITEM_POTATO4CHIP = "item_potato4Chip";
+    public const string ITEM_POTATOCHIP = "item_potatoChip";
+    public const string ITEM_BREAD = "item_bread";
+    public const string ITEM_KNIFE = "item_knife";
+    public const string ITEM_PASTAORIGIN = "item_pastaOrigin";
+    public const string ITEM_PASTABASE = "item_pastaBase";
+    public const string ITEM_PASTAMAKER = "item_pastaMaker";
+    public const string ITEM_COLANDER = "item_colander";
+    public const string ITEM_STEAMYWATEREFF = "item_steamyWaterEff";
+    public const string ITEM_PLATE = "item_plate";
+    public const string ITEM_BACONPIECE = "item_baconPiece";
+    public const string ITEM_BLACKOLIVEPIECE = "item_blackOlivePiece";
+    public const string ITEM_ONIONPIECE = "item_onionPiece";
+    public const string ITEM_MUSHROOMPIECE = "item_mushroomPiece";
+    public const string ITEM_PINEAPPLEPIECE = "item_pineapplePiece";
+    public const string ITEM_MINTLEAFPIECE = "item_mintLeafPiece";
+    public const string ITEM_PEPPERPIECER = "item_pepperPieceR";
+    public const string ITEM_PEPPERPIECEG = "item_pepperPieceG";
+    public const string ITEM_SAUSAGEPIECE = "item_sausagePiece";
+    public const string ITEM_TOMATOPIECE = "item_tomatoPiece";
+    public const string ITEM_APPLE = "item_apple";
+    public const string ITEM_BANANA = "item_banana";
+    public const string ITEM_TOMATO = "item_tomato";
+    public const string ITEM_PEPPER = "item_pepper";
+    public const string ITEM_BANANAPEELED = "item_bananaPeeled";
+    public const string ITEM_BROCCOLI = "item_broccoli";
+    public const string ITEM_CARROT = "item_carrot";
+    public const string ITEM_EGGWHOLE = "item_eggWhole";
+    public const string ITEM_OMELETTE = "item_omelette";
+    public const string ITEM_EGGPEELED = "item_eggPeeled";
+    public const string ITEM_FISH = "item_fish";
+    public const string ITEM_EGGPLANT = "item_eggplant";
+    public const string ITEM_MUSHROOM = "item_mushroom";
+    public const string ITEM_ONION = "item_onion";
+    public const string ITEM_SAUSAGE = "item_sausage";
+    public const string ITEM_STEAK = "item_steak";
+    public const string ITEM_PEAS = "item_peas";
+    public const string ITEM_POTATO = "item_potato";
+    public const string ITEM_PINEAPPLE = "item_pineapple";
+    public const string ITEM_PINEAPPLEPEELED = "item_pineapplePeeled";
+    public const string ITEM_BLADE = "item_blade";
+    public const string ITEM_FINISHED_PIZZA = "item_finished_pizza";
+    public const string ITEM_FINISHED_SUSHI = "item_finished_sushi";
+    public const string ITEM_FINISHED_CUPCAKE = "item_finished_cupcake";
+    public const string ITEM_FINISHED_PASTA = "item_finished_pasta";
+    public const string ITEM_FINISHED_HAMBURGER = "item_finished_hamburger";
+    public const string ITEM_FINISHED_SALAD = "item_finished_salad";
+    public const string ITEM_FINISHED_FARFALLE = "item_finished_farfalle";
+    public const string ITEM_FINISHED_ICECREAM = "item_finished_icecream";
+    public const string ITEM_FOODPACKAGE = "item_foodpackage";
+    public const string ITEM_BUGERBACON = "item_bugerBacon";
+    public const string ITEM_BURGERBEEF = "item_burgerBeef";
+    public const string ITEM_BURGERCHEESE = "item_burgerCheese";
+    public const string ITEM_BURGERCHICKEN = "item_burgerChicken";
+    public const string ITEM_BURGERLETTUCE = "item_burgerLettuce";
+    public const string ITEM_BURGEROMELETTE = "item_burgerOmelette";
+    public const string ITEM_BURGERCUCUMBER = "item_burgerCucumber";
+    public const string ITEM_BURGERFISH = "item_burgerFish";
+    public const string ITEM_BURGERONION = "item_burgerOnion";
+    public const string ITEM_BURGERSAUSAGE = "item_burgerSausage";
+    public const string ITEM_BURGERTOMATO = "item_burgerTomato";
+    public const string ITEM_EGGRAW = "item_eggRaw";
+    public const string ITEM_CREAMRAW = "item_creamRaw";
+    public const string ITEM_NORIBASE = "item_noriBase";
+    public const string ITEM_CARROTSTICK = "item_carrotStick";
+    public const string ITEM_CUCUMBERSTICK = "item_cucumberStick";
+    public const string ITEM_EGGSTICK = "item_eggStick";
+    public const string ITEM_SALMONSTICK = "item_salmonStick";
+    public const string ITEM_SAUSAGESTICK = "item_sausageStick";
+    public const string ITEM_PLATESTUFF = "item_plateStuff";
+    public const string ITEM_TURNTABLE = "item_turnTable";
+    public const string ITEM_CHOPBOARD = "item_chopBoard";
+    public const string ITEM_SUSHIBOARD = "item_sushiBoard";
+    public const string ITEM_MIXER = "item_mixer";
+    public const string ITEM_UNCLEBEAR = "item_unclebear";
+    public const string ITEM_ANDY = "item_andy";
+    public const string ITEM_GIRAFFE = "item_giraffe";
+    public const string ITEM_ELEPHANT = "item_elephant";
+    public const string ITEM_RABBIT = "item_rabbit";
+    public const string ITEM_SHAKEBAG = "item_shakeBag";
+    public const string ITEM_WASHER = "item_washer";
+    public const string ITEM_SALADBOWL = "item_saladBowl";
+    public const string ITEM_SPOON = "item_spoon";
+    public const string ITEM_ROLLPIN = "item_rollpin";
+    public const string ITEM_OVENPLATE = "item_ovenPlate";
+    public const string ITEM_CREAMTOP = "item_creamTop";
+    public const string ITEM_COINS = "item_coins";
+    public const string ITEM_DISHCOVER = "item_dishCover";
+    public const string ITEM_PASTAPLATE = "item_pastaPlate";
+    public const string ITEM_FARFALLE = "item_farfalle";
+    public const string ITEM_FLOURPIECE = "item_flourPiece";
+    public const string ITEM_ICBOWLBIG = "item_icBowlBig";
+    public const string ITEM_ICBOWLSMALL = "item_icBowlSmall";
+    public const string ITEM_ICSPOON = "item_icSpoon";
+    public const string ITEM_ICAPPLE = "item_icApple";
+    public const string ITEM_ICKIWI = "item_icKiwi";
+    public const string ITEM_ICPINEAPPLE = "item_icPineapple";
+    public const string ITEM_ICSTRAWBERRY = "item_icStrawberry";
+    public const string ITEM_ICBANANA = "item_icBanana";
+    public const string ITEM_ICBLUEBERRY = "item_icBlueBerry";
+    public const string ITEM_ICCHERRY = "item_icCherry";
+    public const string ITEM_ICMACHINE = "item_icMachine";
+    public const string ITEM_ICMIXER = "item_icMixer";
+    public const string ITEM_ICWATERMELON = "item_icWaterMelon";
+    public const string ITEM_ICEGGSUN = "item_icEggSun";
+    public const string ITEM_ICEGGWHITE = "item_icEggWhite";
+    public const string ITEM_ICSUGARBOTTLE = "item_icSugarBottle";
+    public const string ITEM_ICCREAM = "item_icCream";
+    public const string ITEM_ICMILK = "item_icMilk";
+    public const string ITEM_ICBALL = "item_icBall";
+    public const string ITEM_ICBALLDOUBLE = "item_icBallDouble";
+    public const string ITEM_ICBALLBOWL = "item_icBallBowl";
+    public const string ITEM_ICBALLSINGLE = "item_icBallSingle";
+    public const string ITEM_ICBALLSAUCE = "item_icBallSauce";
+    public const string ITEM_ICMILKBOX = "item_icMilkBox";
+    public const string ITEM_ICTRAY = "item_icTray";
+    public const string ITEM_ICMANGOBOTTLE = "item_icMangoBottle";
+    public const string ITEM_ICCHOCOBOTTLE = "item_icChocoBottle";
+    public const string ITEM_ICSTRAWBERRYBOTTLE = "item_icStrawberryBottle";
+    public const string ITEM_ICCANDIES = "item_icCandies";
+    public const string ITEM_ICFLAGS = "item_icFlags";
+    public const string ITEM_ICUMBRELLAS = "item_icUmbrellas";
+    public const string ITEM_ICSHELF = "item_icShelf";
+    public const string ITEM_ICDECORBOWLCOOKIES = "item_icDecorBowlCookies";
+    public const string ITEM_ICDECORBOWLCANDIES = "item_icDecorBowlCandies";
+    public const string ITEM_ICDECORBOWLNUTS = "item_icDecorBowlNuts";
+    public const string ITEM_ICCOOKIESPARENT = "item_icCookiesParent";
+    public const string ITEM_ICNUTSPARENT = "item_icNutsParent";
+    public const string ITEM_ICCANDIESPARENT = "item_icCandiesParent";
+    public const string ITEM_ICEGGSEPARATE = "item_icEggSeparate";
+    #endregion
+
+    #region save data keys
+    public const string SAVEKEY_COINS = "savekey_coins";
+    public const string SAVEKEY_FOOD_ITEMS = "savekey_food_items";
+	public const string SAVEKEY_ADS_REMOVED = "savekey_ads_removed";
+
+	public const string SEE_VUNGLE_ADS_COUNT = "seeVungleAdsCount";
+	public const string SEE_VUNGLE_ADS_DATE  = "seeVungleAdsDate";
+	public const int 	SEE_VUNGLE_ADS_DAY_COUNT = 5;  //每天看激励广告最大次数
+	public const int    BUY_ITEM_TYPE_FOOD = 0;
+	public const int    BUY_ITEM_TYPE_PACK = 1;
+    #endregion
+
+    //#region 实例化Key
+    ////工具
+    //public const string ITEM_BOWL = "Bowl";
+    //public const string ITEM_BOWLSMALL = "BowlSmall";
+    //public const string ITEM_PAN = "Pan";
+    //public const string ITEM_POT = "Pot";
+    //public const string ITEM_CUTBOARD = "Cutboard";
+    //public const string ITEM_PLATE = "Plate";
+    //public const string ITEM_FRIDGE = "Fridge";
+    //public const string ITEM_FRIDGELAYER = "FridgeLayer";
+    //public const string ITEM_FRIDGEPLATE = "FridgePlate";
+    //public const string ITEM_CONVEYOR = "Conveyor";
+    //public const string ITEM_GRATER = "Grater";
+    //public const string ITEM_COLANDER = "Colander";
+    //public const string ITEM_BLADE = "Blade";
+    //public const string ITEM_KNIFE = "Knife";
+
+    ////特效
+    //public const string EFF_POUR_WATER = "WaterEff";
+    ////披萨
+    //public const string PIZZA = "Pizza";
+    //public const string PIZZA_KETCHUPBOTTLE = "KetchupBottle";
+    //public const string PIZZA_KETCHUPPIECE = "KetchupPiece";
+    //public const string PIZZA_CHEESE = "Cheese";
+    //public const string PIZZA_CHEESESTICK = "CheeseStick";
+    ////意面
+    //public const string PASTA_SAUSAGE = "Sausage";
+    //public const string PASTA_BAG = "PastaBag";
+    //public const string PASTA = "Pasta";
+    ////沙拉
+    //public const string SALAD_LETTUCE = "Lettuce";
+    ////杯蛋糕
+    //public const string CUPCAKE_CUP = "PaperCup";
+    //public const string CUPCAKE_EGG = "Egg";
+    //public const string CUPCAKE_CAKE = "Cupcake";
+    //public const string CUPCAKE_CREAM = "Cream";
+    //public const string CUPCAKE_PIPINGBAG = "PipingBag";
+    //public const string CUPCAKE_FLUID = "Fluid";
+    //public const string CUPCAKE_EGGBEATER = "EggBeater";
+    //public const string CUPCAKE_EGGRAW = "EggRaw";
+    //public const string CUPCAKE_CREAMRAW = "CreamRaw";
+    ////寿司
+    //public const string SUSHI_BAMBOO = "Bamboo";
+    //public const string SUSHI_NORI = "Nori";
+    //public const string SUSHI_RICE = "Rice";
+    //public const string SUSHI_BUCKET = "RiceBucket";
+    //public const string SUSHI_SUSHISCROLL = "SushiScroll";
+    //public const string SUSHI_STUFF = "Stuff";
+    ////汉堡
+    //public const string BURGER_BREAD = "Bread";
+    //public const string BURGER_POTATO = "Potato";
+    //public const string BURGER_CHIP = "PotatoChip";
+    //#endregion
+}

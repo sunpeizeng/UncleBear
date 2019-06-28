@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 2a92e349100bc8647b33129903eec7d8
+timeCreated: 1490170497
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface3231
+    100004: polySurface3327
+    100006: polySurface3331_polySurface3328_polySurface3326_polySurface3230_polySurface3156
+    100008: polySurface3336
+    100010: polySurface3337
+    100012: polySurface3671
+    100014: polySurface3684
+    100016: polySurface3693_polySurface3327
+    100018: polySurface3696_polySurface3683_polySurface3670_polySurface3231
+    100020: polySurface3697
+    100022: group36_polySurface3336
+    100024: group36_polySurface3729
+    100026: group36_polySurface3730
+    100028: group36_polySurface3743
+    100030: group36_polySurface3801
+    100032: polySurface3331_group36
+    100034: polySurface3803
+    100036: polySurface3816
+    100038: polySurface3820
+    100040: polySurface3801_group36
+    100042: Object001
+    100044: polySurface3969
+    400000: //RootNode
+    400002: polySurface3231
+    400004: polySurface3327
+    400006: polySurface3331_polySurface3328_polySurface3326_polySurface3230_polySurface3156
+    400008: polySurface3336
+    400010: polySurface3337
+    400012: polySurface3671
+    400014: polySurface3684
+    400016: polySurface3693_polySurface3327
+    400018: polySurface3696_polySurface3683_polySurface3670_polySurface3231
+    400020: polySurface3697
+    400022: group36_polySurface3336
+    400024: group36_polySurface3729
+    400026: group36_polySurface3730
+    400028: group36_polySurface3743
+    400030: group36_polySurface3801
+    400032: polySurface3331_group36
+    400034: polySurface3803
+    400036: polySurface3816
+    400038: polySurface3820
+    400040: polySurface3801_group36
+    400042: Object001
+    400044: polySurface3969
+    2300000: //RootNode
+    2300002: polySurface3231
+    2300004: polySurface3327
+    2300006: polySurface3331_polySurface3328_polySurface3326_polySurface3230_polySurface3156
+    2300008: polySurface3336
+    2300010: polySurface3337
+    2300012: polySurface3671
+    2300014: polySurface3684
+    2300016: polySurface3693_polySurface3327
+    2300018: polySurface3696_polySurface3683_polySurface3670_polySurface3231
+    2300020: polySurface3697
+    2300022: group36_polySurface3336
+    2300024: group36_polySurface3729
+    2300026: group36_polySurface3730
+    2300028: group36_polySurface3743
+    2300030: group36_polySurface3801
+    2300032: polySurface3331_group36
+    2300034: polySurface3803
+    2300036: polySurface3816
+    2300038: polySurface3820
+    2300040: polySurface3801_group36
+    2300042: Object001
+    2300044: polySurface3969
+    3300000: //RootNode
+    3300002: polySurface3231
+    3300004: polySurface3327
+    3300006: polySurface3331_polySurface3328_polySurface3326_polySurface3230_polySurface3156
+    3300008: polySurface3336
+    3300010: polySurface3337
+    3300012: polySurface3671
+    3300014: polySurface3684
+    3300016: polySurface3693_polySurface3327
+    3300018: polySurface3696_polySurface3683_polySurface3670_polySurface3231
+    3300020: polySurface3697
+    3300022: group36_polySurface3336
+    3300024: group36_polySurface3729
+    3300026: group36_polySurface3730
+    3300028: group36_polySurface3743
+    3300030: group36_polySurface3801
+    3300032: polySurface3331_group36
+    3300034: polySurface3803
+    3300036: polySurface3816
+    3300038: polySurface3820
+    3300040: polySurface3801_group36
+    3300042: Object001
+    3300044: polySurface3969
+    4300000: polySurface2657
+    4300002: polySurface3331_polySurface3328_polySurface3326_polySurface3230_polySurface3156
+    4300004: polySurface3231
+    4300006: polySurface3327
+    4300008: polySurface3336
+    4300010: polySurface3337
+    4300012: polySurface3696_polySurface3683_polySurface3670_polySurface3231
+    4300014: polySurface3693_polySurface3327
+    4300016: polySurface3671
+    4300018: polySurface3684
+    4300020: polySurface3697
+    4300022: polySurface3331_group36
+    4300024: group36_polySurface3336
+    4300026: group36_polySurface3729
+    4300028: group36_polySurface3730
+    4300030: group36_polySurface3743
+    4300032: group36_polySurface3801
+    4300034: polySurface3803
+    4300036: polySurface3816
+    4300038: polySurface3820
+    4300040: polySurface3801_group36
+    4300042: Object001
+    4300044: polySurface3969
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

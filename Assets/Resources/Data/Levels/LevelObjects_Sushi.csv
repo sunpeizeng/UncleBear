@@ -1,0 +1,11 @@
+Name,ID,Parent,InitPos
+Bamboo,item_bamboo,,
+Nori,item_nori,,
+Rice,item_rice,,
+RiceBucket,item_riceBucket,,
+SushiScroll,item_sushiScroll,,
+Plate,item_plateStuff,,
+NoriBase,item_noriBase,,
+Table,item_turnTable,,
+Board,item_chopBoard,,
+ShowBoard,item_sushiBoard,,

@@ -1,0 +1,11 @@
+Name,ID,Parent,InitPos
+Bowl,item_saladBowl,,
+Lettuce,item_lettuce,,
+Pot,item_pot,,
+Pan,item_pan,,
+FridgePlate,item_fridgePlate,,
+FridgeLayer,item_fridgeLayer,,
+Fridge,item_fridge,,
+Cutboard,item_cutboard,,
+Washer,item_washer,,
+Fluid,item_fluidCustom,,

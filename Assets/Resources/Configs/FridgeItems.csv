@@ -1,0 +1,16 @@
+ID,Count,OriginCuttable,OnEnterMachine,OnLeaveMachine,Rotate,RGB,ScaleInPan,ScaleInPot,ScaleInPlate,ScaleInBowl
+item_apple,3,1,,,,206|244|197,0.6,0.6,0.7,0.7
+item_banana,2,1,all|item_bananaPeeled,,,255|255|255,0.6,0.6,0.7,0.7
+item_broccoli,2,1,,,,158|201|117,0.5,0.6,0.7,0.5
+item_carrot,3,1,,,35,255|151|71,0.5,0.6,0.7,0.7
+item_eggWhole,3,0,oven|item_omelette;pan|item_omelette,pot|item_eggPeeled,,,0.6,0.6,0.7,0.7
+item_fish,1,1,all|item_steak,,,206|170|158,0.6,0.6,0.7,0.7
+item_eggplant,1,1,,,,228|154|255,0.5,0.6,0.7,0.5
+item_mushroom,3,1,,,,255|255|255,0.6,0.6,0.7,0.7
+item_onion,2,1,,,,249|191|255,0.5,0.6,0.7,0.5
+item_pepper,3,1,,,,255|62|62,0.6,0.6,0.7,0.7
+item_tomato,3,1,,,,255|62|62,0.6,0.6,0.7,0.7
+item_potato,2,1,,,,246|255|188,0.6,0.6,0.7,0.7
+item_pineapple,3,1,all|item_pineapplePeeled,,,255|251|96,0.6,0.6,0.7,0.7
+item_peas,2,1,,,20,129|248|140,0.6,0.6,0.7,0.7
+item_sausage,2,1,,,30,253|156|156,0.5,0.6,0.7,0.5

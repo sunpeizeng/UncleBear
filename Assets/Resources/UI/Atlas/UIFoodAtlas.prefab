@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1556143468853470}
+  m_IsPrefabParent: 1
+--- !u!1 &1556143468853470
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4046478104256036}
+  - component: {fileID: 114955338226685808}
+  m_Layer: 0
+  m_Name: UIFoodAtlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4046478104256036
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1556143468853470}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114955338226685808
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1556143468853470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f86dc94876ff5340a975850d9001ab2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mSprites:
+  - {fileID: 21300000, guid: 7f554f5cfa0fc431e86b92d1a873aea1, type: 3}
+  - {fileID: 21300000, guid: 873138d5c05884e548798143d81c85a0, type: 3}
+  - {fileID: 21300000, guid: 07dfb1003ec524097998e70545783cfd, type: 3}
+  - {fileID: 21300000, guid: e5d3cf5dcab874fb7b0dfc362107ae21, type: 3}
+  - {fileID: 21300000, guid: 1587348522c744b6cbdae3402897ef2b, type: 3}
+  - {fileID: 21300000, guid: 4d3c283a336ea8e459d22485befd76cb, type: 3}
+  - {fileID: 21300000, guid: 554b3d95f754d4c3ba56837c07a23a6f, type: 3}
+  - {fileID: 21300000, guid: 1bde70264755842289f8da00a63fbe0d, type: 3}
+  - {fileID: 21300000, guid: 2b5fed3fe49f3436e84e5e5857f6c8e0, type: 3}
+  - {fileID: 21300000, guid: b430d5567000f6c499c6cd51859d8bd8, type: 3}
+  - {fileID: 21300000, guid: 3409aaf926d2fe14580a32d9022da31b, type: 3}
+  - {fileID: 21300000, guid: 836f6a570a951ac4487b0602ebc1188c, type: 3}
+  - {fileID: 21300000, guid: fca08758e371fc0478a043ffd609822a, type: 3}
+  - {fileID: 21300000, guid: f083dd6247ba63049a4e713957677091, type: 3}
+  - {fileID: 21300000, guid: c89804bcb018fcf4ba24cb2574516f1b, type: 3}
+  - {fileID: 21300000, guid: c1eb453f9e1a3bb4bba9e86154018e27, type: 3}
+  - {fileID: 21300000, guid: 6e359e0901f9a034e857632c9a51d43f, type: 3}
+  - {fileID: 21300000, guid: 09baa2f43bb1b47cfaaea380b4602800, type: 3}
+  - {fileID: 21300000, guid: 8c943c9fe09644432a84b58a4a121c5c, type: 3}
+  - {fileID: 21300000, guid: ebe3e41b4cd6b4166b648e1701213f25, type: 3}
+  - {fileID: 21300000, guid: 14226ea140762b74381a22b1b0903872, type: 3}
+  - {fileID: 21300000, guid: cfbf305e9807e344589f200428e0add9, type: 3}
+  - {fileID: 21300000, guid: 6e9d9da529ec94bb385fbb0850971939, type: 3}
+  - {fileID: 21300000, guid: 16fe0d6adcf76994e80edf1e4878f53b, type: 3}
+  - {fileID: 21300000, guid: 64b5782d90f1211499bcca3e9f80474a, type: 3}
+  - {fileID: 21300000, guid: 0d494069735fcad4789cf1549b9b3e89, type: 3}
+  - {fileID: 21300000, guid: 8d3a2117b43274d2abeaf2c429cc8200, type: 3}
+  - {fileID: 21300000, guid: f287a33022f17ff4fa6a3829c5e52393, type: 3}
+  - {fileID: 21300000, guid: ccac80b7d28ef49f388573d3d4e3ae5a, type: 3}
+  - {fileID: 21300000, guid: 13bc1e825ae8a4428b75eb488a062fa6, type: 3}
+  - {fileID: 21300000, guid: da67289c0a9824eb4b1c6d093af00f34, type: 3}
+  - {fileID: 21300000, guid: 9bcdff814b5827143a2cecdd7d06d4c0, type: 3}
+  - {fileID: 21300000, guid: b3dc0a5caa1824b928d4d3f98704e54a, type: 3}
+  - {fileID: 21300000, guid: caa3c641a56124311894745338fadcc3, type: 3}
+  - {fileID: 21300000, guid: b73f0dc13cf99476f882e405783866ae, type: 3}
+  - {fileID: 21300000, guid: 5b653d9483a1445d2bd67c371e058f2f, type: 3}
+  - {fileID: 21300000, guid: 2687624e75dd5478194ec6e9f1340ae8, type: 3}
+  - {fileID: 21300000, guid: c23d3f31f701a40d5aa0414fce4994e4, type: 3}
+  - {fileID: 21300000, guid: 98e327db11f11487e85951e61c800052, type: 3}
+  - {fileID: 21300000, guid: 1b87067d71672f94ab12511e537a41eb, type: 3}
+  - {fileID: 21300000, guid: b348942aa04c11a4195f824c5cea72fe, type: 3}
+  - {fileID: 21300000, guid: 374ff68a5b835bc45a002eb1264625d2, type: 3}
+  - {fileID: 21300000, guid: 3b2b834527a31f846941753fc4b22aba, type: 3}
+  - {fileID: 21300000, guid: ac65d2bb734f84049938ad5fed2ea084, type: 3}
+  - {fileID: 21300000, guid: bc6670c798bcea841b589c14a50bc617, type: 3}
+  - {fileID: 21300000, guid: b7522e99e83807f4db6003a0489ce5c0, type: 3}
+  - {fileID: 21300000, guid: 2dc24960c6ad4cb44bdc9a5554ad738e, type: 3}
+  - {fileID: 21300000, guid: cd9d5f9bcab3444978b31c904799e60c, type: 3}
+  - {fileID: 21300000, guid: 9813d17c18efa4f43a39cd41b83ec147, type: 3}
+  - {fileID: 21300000, guid: d0a3daba456094e038730c1be0e854c4, type: 3}
+  - {fileID: 21300000, guid: 4f5f2339271af8e40ad8fa2c9dee1618, type: 3}
+  - {fileID: 21300000, guid: 4d94996fe4489437bbce68bd2f22dddb, type: 3}
+  - {fileID: 21300000, guid: d33db23a0dde64bd48c0dc1913fa5a88, type: 3}
+  - {fileID: 21300000, guid: 01efc5dce5bd0409690808b138a15f74, type: 3}
+  - {fileID: 21300000, guid: 88541b83ab8b748079560d40e1207279, type: 3}
+  - {fileID: 21300000, guid: 4a2864fba49584a7cb2f24ee51203f95, type: 3}
+  - {fileID: 21300000, guid: 019b9b52fe6214b09b440e5611180262, type: 3}
+  - {fileID: 21300000, guid: b9547c29e2e5146cbb81f0a1cd07b01e, type: 3}
+  - {fileID: 21300000, guid: 1b81764d60cf146939ffbfe984a48ea7, type: 3}
+  - {fileID: 21300000, guid: 43c9865bd417249689beeb71dbeff6c4, type: 3}
+  - {fileID: 21300000, guid: 532df99813a80466686eb45923daffba, type: 3}
+  - {fileID: 21300000, guid: 75b5ef0c20df74ff6b141b18f7db4e73, type: 3}
+  - {fileID: 21300000, guid: d5c77afaeabddf942a8a01ad69744179, type: 3}
+  - {fileID: 21300000, guid: 721a1e2c61059cb429ef20d38d0b6f45, type: 3}
+  - {fileID: 21300000, guid: 8f5bcfa5b03f949e480e9eaa52aecf69, type: 3}
+  - {fileID: 21300000, guid: 0ab7635073c504eb2a0ea21e8224115b, type: 3}
+  - {fileID: 21300000, guid: 7833dd53b5fc64e9eb33f98db50c4012, type: 3}
+  mSpriteNames:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - cupcake
+  - cupcake_text_cn
+  - cupcake_text_en
+  - cupcake_text_tcn
+  - farfalle
+  - farfalle_desc_cn
+  - farfalle_desc_en
+  - farfalle_desc_tw
+  - farfalle_for_sell
+  - farfalle_text_cn
+  - farfalle_text_en
+  - farfalle_text_tw
+  - food_package_knot_cn
+  - food_package_knot_en
+  - food_package_knot_tcn
+  - foodpackage_desc_cn
+  - foodpackage_desc_en
+  - foodpackage_desc_tw
+  - foodpackage_for_sell
+  - foodpackage_text_cn
+  - foodpackage_text_en
+  - foodpackage_text_tw
+  - hamburger
+  - hamburger_text_cn
+  - hamburger_text_en
+  - hamburger_text_tcn
+  - icecream
+  - icecream_desc_cn
+  - icecream_desc_en
+  - icecream_desc_tcn
+  - icecream_for_sell
+  - icecream_text_cn
+  - icecream_text_en
+  - icecream_text_tcn
+  - owned_text_cn
+  - owned_text_en
+  - owned_text_tw
+  - pizza
+  - pizza_desc_cn
+  - pizza_desc_en
+  - pizza_desc_tcn
+  - pizza_for_sell
+  - pizza_text_cn
+  - pizza_text_en
+  - pizza_text_tcn
+  - salad
+  - salad_text_cn
+  - salad_text_en
+  - salad_text_tcn
+  - seeAds_text_cn
+  - seeAds_text_en
+  - seeAds_text_tcn
+  - seeAdsBg
+  - seeAdsBg_press
+  - seeAdsTime_cn
+  - seeAdsTime_en
+  - seeAdsTime_tcn
+  - strip
+  - sushi
+  - sushi_text_cn
+  - sushi_text_en
+  - sushi_text_tcn
+  mAndroidOverride: 1
+  miOSOverride: 1
+  mAndroidTextureFormat: 7
+  miOSTextureFormat: 7

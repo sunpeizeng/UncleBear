@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1948962884749362}
+  m_IsPrefabParent: 1
+--- !u!1 &1948962884749362
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4719229433767916}
+  - component: {fileID: 114818361792598020}
+  m_Layer: 0
+  m_Name: UIBuy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4719229433767916
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1948962884749362}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114818361792598020
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1948962884749362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f86dc94876ff5340a975850d9001ab2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mSprites:
+  - {fileID: 21300000, guid: 1c8cc96e0a932fe4e9871c8190206c89, type: 3}
+  - {fileID: 21300000, guid: e47adab3098548846b67a0bd5d2ec810, type: 3}
+  - {fileID: 21300000, guid: 63ad77569c4578f4798a4b88be5096a6, type: 3}
+  - {fileID: 21300000, guid: 61c5300d025d99c44a3fa362b97c0630, type: 3}
+  - {fileID: 21300000, guid: 9be5f46248c5ae04d9faf6db22baa9e5, type: 3}
+  - {fileID: 21300000, guid: bcfcaac7253b3c947a92493604997060, type: 3}
+  - {fileID: 21300000, guid: 78fa91da27da7024e9b17a16fe1996f8, type: 3}
+  - {fileID: 21300000, guid: 2bce2254539dbd945b11e985b203ee1f, type: 3}
+  - {fileID: 21300000, guid: 4370a3109c268dd4296bf67bd8be08c2, type: 3}
+  - {fileID: 21300000, guid: 123c115028eebe14f9fb028d4eca5248, type: 3}
+  - {fileID: 21300000, guid: 3650f34132bf7ce4789f0a5884ca6c20, type: 3}
+  - {fileID: 21300000, guid: 885b6cf9ff754034ba496644031930ec, type: 3}
+  - {fileID: 21300000, guid: f8d9c06a17be0b34c857719c0527b230, type: 3}
+  - {fileID: 21300000, guid: 6f5bf4f075938d349a1539627b04c4f0, type: 3}
+  - {fileID: 21300000, guid: 47fec41d0b34a624597d7169d514f2a0, type: 3}
+  - {fileID: 21300000, guid: 5de46723c62057f4c95cc3c2343deab1, type: 3}
+  - {fileID: 21300000, guid: 9a73e72343e5eeb468caf5f105e03340, type: 3}
+  - {fileID: 21300000, guid: 4c36b9898a047274489ddd3309a0ba54, type: 3}
+  - {fileID: 21300000, guid: acd2a40758ce99e4899892aa6b99222c, type: 3}
+  - {fileID: 21300000, guid: 9f455a47dd01e0c4f809ee955e79e9cc, type: 3}
+  - {fileID: 21300000, guid: 68f9f20ddcbdbd04fbc9940dd0498af4, type: 3}
+  - {fileID: 21300000, guid: 600b41e9a2a08a940bcabfc58c3032d7, type: 3}
+  - {fileID: 21300000, guid: 3ab9c7ba7915c3342b34098d028e107f, type: 3}
+  - {fileID: 21300000, guid: e39de093791329748b1a580b3ef241c9, type: 3}
+  - {fileID: 21300000, guid: 550eb29c19d56104aab5ba8deb1e5dde, type: 3}
+  - {fileID: 21300000, guid: 35a3648af38ee3e44b08b76bbe17842a, type: 3}
+  mSpriteNames:
+  - back
+  - buy_text_cn
+  - buy_text_en
+  - buy_text_tw
+  - discount
+  - farfalle
+  - farfalle_half
+  - farfalle_text_cn
+  - farfalle_text_en
+  - farfalle_text_tw
+  - foodPackage
+  - foodpackage_text_cn
+  - foodpackage_text_en
+  - foodpackage_text_tw
+  - Owned
+  - pizza
+  - pizza_text_cn
+  - pizza_text_en
+  - pizza_text_tw
+  - restore_bg
+  - restore_text_cn
+  - restore_text_en
+  - restore_text_tw
+  - tag
+  - tag_long
+  - tag_middle
+  mAndroidOverride: 1
+  miOSOverride: 1
+  mAndroidTextureFormat: 7
+  miOSTextureFormat: 7

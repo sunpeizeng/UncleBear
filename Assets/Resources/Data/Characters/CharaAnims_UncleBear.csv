@@ -1,0 +1,14 @@
+State,Clips
+IdleStanding,Looking_for_something
+WaitFeed,
+Move,walk
+Greet,greet
+Wait,Standby
+SitDown,
+StandUp,
+Eat,
+Happy,success
+Sad,failure
+TransDish,End_plate_walking
+TakeNotes,Standby
+Pay,

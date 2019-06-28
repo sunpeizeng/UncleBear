@@ -1,0 +1,49 @@
+KEY,English,ChineseSimplified,ChineseTraditional
+Img_Rate_Us,UIAtlas/rateUs_en,UIAtlas/rateUs_cn,UIAtlas/rateUs_tw
+Img_Sushi_Name,UIFoodAtlas/sushi_text_en,UIFoodAtlas/sushi_text_cn,UIFoodAtlas/sushi_text_tcn
+Img_Pizza_Name,UIFoodAtlas/pizza_text_en,UIFoodAtlas/pizza_text_cn,UIFoodAtlas/pizza_text_tcn
+Img_Cupcake_Name,UIFoodAtlas/cupcake_text_en,UIFoodAtlas/cupcake_text_cn,UIFoodAtlas/cupcake_text_tcn
+Img_Pasta_Name,UIFoodAtlas/pasta_text_en,UIFoodAtlas/pasta_text_cn,UIFoodAtlas/pasta_text_tcn
+Img_Hamburger_Name,UIFoodAtlas/hamburger_text_en,UIFoodAtlas/hamburger_text_cn,UIFoodAtlas/hamburger_text_tcn
+Img_Salad_Name,UIFoodAtlas/salad_text_en,UIFoodAtlas/salad_text_cn,UIFoodAtlas/salad_text_tcn
+Img_Farfalle_Name,UIFoodAtlas/farfalle_text_en,UIFoodAtlas/farfalle_text_cn,UIFoodAtlas/farfalle_text_tw
+Img_Foodpackage_Name,UIFoodAtlas/foodpackage_text_en,UIFoodAtlas/foodpackage_text_cn,UIFoodAtlas/foodpackage_text_tw
+Img_Pizza_Desc,UIFoodAtlas/pizza_desc_en,UIFoodAtlas/pizza_desc_cn,UIFoodAtlas/pizza_desc_tcn
+Img_Farfalle_Desc,UIFoodAtlas/farfalle_desc_en,UIFoodAtlas/farfalle_desc_cn,UIFoodAtlas/farfalle_desc_tw
+Img_Foodpackage_Desc,UIFoodAtlas/foodpackage_desc_en,UIFoodAtlas/foodpackage_desc_cn,UIFoodAtlas/foodpackage_desc_tw
+"MAIN MENU","MAIN MENU",主菜单,
+Music,Music,音乐,
+Settings,Settings,设置,
+Sound,Sound,音效,
+Sushi,Sushi,寿司,
+Pizza,Pizza,披萨,
+Cupcake,Cupcake,杯蛋糕,
+Pasta,Pasta,意大利面,
+Hamburger,Hamburger,汉堡包,
+Salad,Salad,沙拉,
+Unlock,Unlock,解锁,
+Img_Restore_Purchase,UIAtlas/restore_purchase_en,UIAtlas/restore_purchase_cn,UIAtlas/restore_purchase_tcn
+Img_Remove_Ads,UIAtlas/remove_ads_en,UIAtlas/remove_ads_cn,UIAtlas/remove_ads_tcn
+Img_Currency_Sign,UIAtlas/dollar_sign,UIAtlas/rmb_sign,UIAtlas/dollar_sign
+Img_Insufficient_Coins,UIAtlas/insufficient_coins_en,UIAtlas/insufficient_coins_cn,UIAtlas/insufficient_coins_tcn
+Img_Logo,UIAtlas/logo_text_en,UIAtlas/logo_text_cn,UIAtlas/logo_text_tcn
+Finger_Slide_Up,"To confirm you are the parent\nPlease slide up",为了确认你是家长\n请用一根手指向上滑动,為了確認你是家長\n請用一根手指向上滑動
+Finger_Slide_Down,"To confirm you are the parent\nPlease slide down",为了确认你是家长\n请用一根手指向下滑动,為了確認你是家長\n請用一根手指向下滑動
+Finger_Slide_Right,"To confirm you are the parent\nPlease slide right",为了确认你是家长\n请用一根手指向右滑动,為了確認你是家長\n請用一根手指向右滑動
+Finger_Slide_Left,"To confirm you are the parent\nPlease slide left",为了确认你是家长\n请用一根手指向左滑动,為了確認你是家長\n請用一根手指向左滑動
+ParentNote_Title,"Uncle Bear Education",熊大叔儿童教育,熊大叔兒童教育
+ParentNote_Desc,"    We are committed to the professional team of children's game development.We create the most perfect virtual friend in our persistent dream for children! We combined years of experience in children's education and games hence we built a ""Uncle Bear"" series of children's game. ""Uncle bear"" series of children's game will bring you a professional children's education concept, a way to mentor children's growth.If you have any comments and suggestions for our product ,please call us in time, we will give you a satisfying reply very soon!","    ""熊大叔""专注于学龄前儿童教育，由资深\n儿童教育专家参与核心内容设计，采取沉\n浸式游戏教育方法。以先进的科学教育\n理念为引导，覆盖科学探索、健康生活、\n语言认知、社会体验、艺术培养五大维\n度，让孩子在游戏中学习知识，认知世界。","    ""熊大叔""專注於學齡前兒童教育，由資深\n兒童教育專家參與覈心內容設計，採取沉\n浸式遊戲教育方法。以先進的科學教育\n理念為引導，覆蓋科學探索、健康生活、\n語言認知、社會體驗、藝術培養五大維\n度，讓孩子在遊戲中學習知識，認知世界。"
+ParentNote_Contact,Website:www.biemore.com\nEmail:kids@biemore.com\nFacebook:https://www.facebook.com/UncleBearKids,官方网站:www.biemore.com\n微信公众号:熊大叔儿童游戏\n新浪微博:weibo.com/xiongdashu/\n电子邮箱:kids@biemore.com\n客服电话:400-009-8466,Website:www.biemore.com\nEmail:kids@biemore.com\nFacebook:https://www.facebook.com/UncleBearKids
+ParentNote_Logo,,UIParent/cn,UIParent/tcn
+ParentNote_Btn,UIAtlas/parentRect_en,UIAtlas/parentRect_cn,UIAtlas/parentRect_tcn
+Img_Pizza_Name_2,UIBuy/pizza_text_en,UIBuy/pizza_text_cn,UIBuy/pizza_text_tw
+Img_Farfalle_Name_2,UIBuy/farfalle_text_en,UIBuy/farfalle_text_cn,UIBuy/farfalle_text_tw
+Img_Foodpakcage_Name_2,UIBuy/foodpackage_text_en,UIBuy/foodpackage_text_cn,UIBuy/foodpackage_text_tw
+Img_Restore_Purchase_2,UIBuy/restore_text_en,UIBuy/restore_text_cn,UIBuy/restore_text_tw
+Img_Buy_Text,UIBuy/buy_text_en,UIBuy/buy_text_cn,UIBuy/buy_text_tw
+Img_Owned_Text,UIFoodAtlas/owned_text_en,UIFoodAtlas/owned_text_cn,UIFoodAtlas/owned_text_tw
+Img_Icecream_Name,UIFoodAtlas/icecream_text_en,UIFoodAtlas/icecream_text_cn,UIFoodAtlas/icecream_text_tcn
+Img_Icecream_Desc,UIFoodAtlas/icecream_desc_en,UIFoodAtlas/icecream_desc_cn,UIFoodAtlas/icecream_desc_tcn
+Img_SeeAds_Desc,UIFoodAtlas/seeAds_text_en,UIFoodAtlas/seeAds_text_cn,UIFoodAtlas/seeAds_text_tcn
+Img_SeeAds_Time,UIFoodAtlas/seeAdsTime_en,UIFoodAtlas/seeAdsTime_cn,UIFoodAtlas/seeAdsTime_tcn
+package_knot,UIFoodAtlas/food_package_knot_en,UIFoodAtlas/food_package_knot_cn,UIFoodAtlas/food_package_knot_tcn

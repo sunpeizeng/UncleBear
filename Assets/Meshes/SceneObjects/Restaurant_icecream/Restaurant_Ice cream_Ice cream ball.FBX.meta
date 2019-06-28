@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: efc7f7c4bbf9e764b9e364c95d6cfe8f
+timeCreated: 1500018950
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: lRestaurant_Ice cream_Ice cream ball_1
+    100002: //RootNode
+    100004: Restaurant_Ice cream_Ice cream ball_2
+    100006: Restaurant_Ice cream_Ice cream ball_3
+    100008: Restaurant_Ice cream_Ice cream ball_4
+    100010: Restaurant_Ice cream_Ice cream ball_01
+    100012: Restaurant_Ice cream_Ice cream ball_02
+    100014: Restaurant_Ice cream_Ice cream ball_03
+    100016: Restaurant_Ice cream_Ice cream ball_04
+    100018: Restaurant_Ice cream_Ice cream ball_05
+    100020: Restaurant_Ice cream_Ice cream ball_06
+    100022: Restaurant_Ice cream_Ice cream ball_07
+    400000: lRestaurant_Ice cream_Ice cream ball_1
+    400002: //RootNode
+    400004: Restaurant_Ice cream_Ice cream ball_2
+    400006: Restaurant_Ice cream_Ice cream ball_3
+    400008: Restaurant_Ice cream_Ice cream ball_4
+    400010: Restaurant_Ice cream_Ice cream ball_01
+    400012: Restaurant_Ice cream_Ice cream ball_02
+    400014: Restaurant_Ice cream_Ice cream ball_03
+    400016: Restaurant_Ice cream_Ice cream ball_04
+    400018: Restaurant_Ice cream_Ice cream ball_05
+    400020: Restaurant_Ice cream_Ice cream ball_06
+    400022: Restaurant_Ice cream_Ice cream ball_07
+    2300000: lRestaurant_Ice cream_Ice cream ball_1
+    2300002: Restaurant_Ice cream_Ice cream ball_2
+    2300004: Restaurant_Ice cream_Ice cream ball_3
+    2300006: Restaurant_Ice cream_Ice cream ball_4
+    2300008: Restaurant_Ice cream_Ice cream ball_01
+    2300010: Restaurant_Ice cream_Ice cream ball_02
+    2300012: Restaurant_Ice cream_Ice cream ball_03
+    2300014: Restaurant_Ice cream_Ice cream ball_04
+    2300016: Restaurant_Ice cream_Ice cream ball_05
+    2300018: Restaurant_Ice cream_Ice cream ball_06
+    2300020: Restaurant_Ice cream_Ice cream ball_07
+    3300000: lRestaurant_Ice cream_Ice cream ball_1
+    3300002: Restaurant_Ice cream_Ice cream ball_2
+    3300004: Restaurant_Ice cream_Ice cream ball_3
+    3300006: Restaurant_Ice cream_Ice cream ball_4
+    3300008: Restaurant_Ice cream_Ice cream ball_01
+    3300010: Restaurant_Ice cream_Ice cream ball_02
+    3300012: Restaurant_Ice cream_Ice cream ball_03
+    3300014: Restaurant_Ice cream_Ice cream ball_04
+    3300016: Restaurant_Ice cream_Ice cream ball_05
+    3300018: Restaurant_Ice cream_Ice cream ball_06
+    3300020: Restaurant_Ice cream_Ice cream ball_07
+    4300000: Restaurant_Ice cream_Ice cream ball_2
+    4300002: Restaurant_Ice cream_Ice cream ball_3
+    4300004: Restaurant_Ice cream_Ice cream ball_4
+    4300006: lRestaurant_Ice cream_Ice cream ball_1
+    4300008: Restaurant_Ice cream_Ice cream ball_03
+    4300010: Restaurant_Ice cream_Ice cream ball_06
+    4300012: Restaurant_Ice cream_Ice cream ball_07
+    4300014: Restaurant_Ice cream_Ice cream ball_02
+    4300016: Restaurant_Ice cream_Ice cream ball_05
+    4300018: Restaurant_Ice cream_Ice cream ball_04
+    4300020: Restaurant_Ice cream_Ice cream ball_01
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

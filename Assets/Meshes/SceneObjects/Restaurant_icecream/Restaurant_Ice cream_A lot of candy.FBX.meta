@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: cbb4a44c7db6e374da57b931974cfba1
+timeCreated: 1499914368
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BingGan00
+    100002: BingGan01
+    100004: BingGan02
+    100006: BingGan03
+    100008: BingGan04
+    100010: BingGan05
+    100012: GuoRen00
+    100014: GuoRen01
+    100016: GuoRen02
+    100018: GuoRen03
+    100020: GuoRen04
+    100022: GuoRen05
+    100024: GuoRen06
+    100026: GuoRen08
+    100028: GuoRen09
+    100030: GuoRen10
+    100032: GuoRen11
+    100034: GuoRen12
+    100036: GuoRen13
+    100038: //RootNode
+    100040: TangGuo00
+    100042: TangGuo01
+    100044: TangGuo02
+    100046: TangGuo03
+    100048: TangGuo04
+    100050: TangGuo05
+    100052: TangGuo06
+    100054: TangGuo07
+    100056: TangGuo08
+    100058: TangGuo09
+    100060: TangGuo10
+    100062: TangGuo11
+    100064: TangGuo12
+    100066: TangGuo13
+    100068: TangGuo14
+    100070: TangGuo15
+    100072: TangGuo16
+    100074: TangGuo17
+    100076: TangGuo18
+    100078: TangGuo19
+    100080: TangGuo20
+    100082: TangGuo21
+    100084: TangGuo22
+    100086: TangGuo23
+    100088: TangGuo24
+    100090: TangGuo25
+    100092: TangGuo26
+    100094: TangGuo27
+    100096: Restaurant_Ice cream_ Candy00
+    100098: Restaurant_Ice cream_ Candy01
+    100100: Restaurant_Ice cream_ Candy02
+    100102: Restaurant_Ice cream_ Candy03
+    100104: Restaurant_Ice cream_ Candy04
+    100106: Restaurant_Ice cream_ Candy05
+    100108: Restaurant_Ice cream_ Candy06
+    100110: Restaurant_Ice cream_ Candy07
+    100112: Restaurant_Ice cream_ Candy08
+    100114: Restaurant_Ice cream_ Candy09
+    100116: Restaurant_Ice cream_ Candy10
+    100118: Restaurant_Ice cream_ Candy11
+    100120: Restaurant_Ice cream_ Candy12
+    100122: Restaurant_Ice cream_ Candy13
+    100124: Restaurant_Ice cream_ Candy14
+    100126: Restaurant_Ice cream_ Candy15
+    100128: Restaurant_Ice cream_ Candy16
+    100130: Restaurant_Ice cream_ Candy17
+    100132: Restaurant_Ice cream_ Candy18
+    100134: Restaurant_Ice cream_ Candy19
+    100136: Restaurant_Ice cream_ Candy20
+    100138: Restaurant_Ice cream_ Candy21
+    100140: Restaurant_Ice cream_ Candy22
+    100142: Restaurant_Ice cream_ Candy23
+    100144: Restaurant_Ice cream_A lot of candy00
+    100146: Restaurant_Ice cream_A lot of candy01
+    100148: Restaurant_Ice cream_A lot of candy02
+    100150: Restaurant_Ice cream_A lot of candy03
+    100152: Restaurant_Ice cream_A lot of candy04
+    100154: Restaurant_Ice cream_A lot of candy05
+    100156: Restaurant_Ice cream_A lot of candy06
+    100158: Restaurant_Ice cream_A lot of candy07
+    100160: Restaurant_Ice cream_A lot of candy08
+    100162: Restaurant_Ice cream_A lot of candy09
+    100164: Restaurant_Ice cream_A lot of candy10
+    100166: Restaurant_Ice cream_A lot of candy11
+    100168: Restaurant_Ice cream_A lot of candy12
+    100170: Restaurant_Ice cream_A lot of candy13
+    100172: Restaurant_Ice cream_A lot of candy14
+    100174: Restaurant_Ice cream_A lot of candy15
+    100176: Restaurant_Ice cream_A lot of candy16
+    100178: Restaurant_Ice cream_A lot of candy17
+    100180: Restaurant_Ice cream_A lot of candy18
+    100182: Restaurant_Ice cream_A lot of candy19
+    100184: Restaurant_Ice cream_A lot of candy20
+    100186: Restaurant_Ice cream_A lot of candy21
+    100188: Restaurant_Ice cream_A lot of candy22
+    100190: Restaurant_Ice cream_A lot of candy23
+    400000: BingGan00
+    400002: BingGan01
+    400004: BingGan02
+    400006: BingGan03
+    400008: BingGan04
+    400010: BingGan05
+    400012: GuoRen00
+    400014: GuoRen01
+    400016: GuoRen02
+    400018: GuoRen03
+    400020: GuoRen04
+    400022: GuoRen05
+    400024: GuoRen06
+    400026: GuoRen08
+    400028: GuoRen09
+    400030: GuoRen10
+    400032: GuoRen11
+    400034: GuoRen12
+    400036: GuoRen13
+    400038: //RootNode
+    400040: TangGuo00
+    400042: TangGuo01
+    400044: TangGuo02
+    400046: TangGuo03
+    400048: TangGuo04
+    400050: TangGuo05
+    400052: TangGuo06
+    400054: TangGuo07
+    400056: TangGuo08
+    400058: TangGuo09
+    400060: TangGuo10
+    400062: TangGuo11
+    400064: TangGuo12
+    400066: TangGuo13
+    400068: TangGuo14
+    400070: TangGuo15
+    400072: TangGuo16
+    400074: TangGuo17
+    400076: TangGuo18
+    400078: TangGuo19
+    400080: TangGuo20
+    400082: TangGuo21
+    400084: TangGuo22
+    400086: TangGuo23
+    400088: TangGuo24
+    400090: TangGuo25
+    400092: TangGuo26
+    400094: TangGuo27
+    400096: Restaurant_Ice cream_ Candy00
+    400098: Restaurant_Ice cream_ Candy01
+    400100: Restaurant_Ice cream_ Candy02
+    400102: Restaurant_Ice cream_ Candy03
+    400104: Restaurant_Ice cream_ Candy04
+    400106: Restaurant_Ice cream_ Candy05
+    400108: Restaurant_Ice cream_ Candy06
+    400110: Restaurant_Ice cream_ Candy07
+    400112: Restaurant_Ice cream_ Candy08
+    400114: Restaurant_Ice cream_ Candy09
+    400116: Restaurant_Ice cream_ Candy10
+    400118: Restaurant_Ice cream_ Candy11
+    400120: Restaurant_Ice cream_ Candy12
+    400122: Restaurant_Ice cream_ Candy13
+    400124: Restaurant_Ice cream_ Candy14
+    400126: Restaurant_Ice cream_ Candy15
+    400128: Restaurant_Ice cream_ Candy16
+    400130: Restaurant_Ice cream_ Candy17
+    400132: Restaurant_Ice cream_ Candy18
+    400134: Restaurant_Ice cream_ Candy19
+    400136: Restaurant_Ice cream_ Candy20
+    400138: Restaurant_Ice cream_ Candy21
+    400140: Restaurant_Ice cream_ Candy22
+    400142: Restaurant_Ice cream_ Candy23
+    400144: Restaurant_Ice cream_A lot of candy00
+    400146: Restaurant_Ice cream_A lot of candy01
+    400148: Restaurant_Ice cream_A lot of candy02
+    400150: Restaurant_Ice cream_A lot of candy03
+    400152: Restaurant_Ice cream_A lot of candy04
+    400154: Restaurant_Ice cream_A lot of candy05
+    400156: Restaurant_Ice cream_A lot of candy06
+    400158: Restaurant_Ice cream_A lot of candy07
+    400160: Restaurant_Ice cream_A lot of candy08
+    400162: Restaurant_Ice cream_A lot of candy09
+    400164: Restaurant_Ice cream_A lot of candy10
+    400166: Restaurant_Ice cream_A lot of candy11
+    400168: Restaurant_Ice cream_A lot of candy12
+    400170: Restaurant_Ice cream_A lot of candy13
+    400172: Restaurant_Ice cream_A lot of candy14
+    400174: Restaurant_Ice cream_A lot of candy15
+    400176: Restaurant_Ice cream_A lot of candy16
+    400178: Restaurant_Ice cream_A lot of candy17
+    400180: Restaurant_Ice cream_A lot of candy18
+    400182: Restaurant_Ice cream_A lot of candy19
+    400184: Restaurant_Ice cream_A lot of candy20
+    400186: Restaurant_Ice cream_A lot of candy21
+    400188: Restaurant_Ice cream_A lot of candy22
+    400190: Restaurant_Ice cream_A lot of candy23
+    2300000: BingGan00
+    2300002: BingGan01
+    2300004: BingGan02
+    2300006: BingGan03
+    2300008: BingGan04
+    2300010: BingGan05
+    2300012: GuoRen00
+    2300014: GuoRen01
+    2300016: GuoRen02
+    2300018: GuoRen03
+    2300020: GuoRen04
+    2300022: GuoRen05
+    2300024: GuoRen06
+    2300026: GuoRen08
+    2300028: GuoRen09
+    2300030: GuoRen10
+    2300032: GuoRen11
+    2300034: GuoRen12
+    2300036: GuoRen13
+    2300038: TangGuo00
+    2300040: TangGuo01
+    2300042: TangGuo02
+    2300044: TangGuo03
+    2300046: TangGuo04
+    2300048: TangGuo05
+    2300050: TangGuo06
+    2300052: TangGuo07
+    2300054: TangGuo08
+    2300056: TangGuo09
+    2300058: TangGuo10
+    2300060: TangGuo11
+    2300062: TangGuo12
+    2300064: TangGuo13
+    2300066: TangGuo14
+    2300068: TangGuo15
+    2300070: TangGuo16
+    2300072: TangGuo17
+    2300074: TangGuo18
+    2300076: TangGuo19
+    2300078: TangGuo20
+    2300080: TangGuo21
+    2300082: TangGuo22
+    2300084: TangGuo23
+    2300086: TangGuo24
+    2300088: TangGuo25
+    2300090: TangGuo26
+    2300092: TangGuo27
+    2300094: Restaurant_Ice cream_ Candy00
+    2300096: Restaurant_Ice cream_ Candy01
+    2300098: Restaurant_Ice cream_ Candy02
+    2300100: Restaurant_Ice cream_ Candy03
+    2300102: Restaurant_Ice cream_ Candy04
+    2300104: Restaurant_Ice cream_ Candy05
+    2300106: Restaurant_Ice cream_ Candy06
+    2300108: Restaurant_Ice cream_ Candy07
+    2300110: Restaurant_Ice cream_ Candy08
+    2300112: Restaurant_Ice cream_ Candy09
+    2300114: Restaurant_Ice cream_ Candy10
+    2300116: Restaurant_Ice cream_ Candy11
+    2300118: Restaurant_Ice cream_ Candy12
+    2300120: Restaurant_Ice cream_ Candy13
+    2300122: Restaurant_Ice cream_ Candy14
+    2300124: Restaurant_Ice cream_ Candy15
+    2300126: Restaurant_Ice cream_ Candy16
+    2300128: Restaurant_Ice cream_ Candy17
+    2300130: Restaurant_Ice cream_ Candy18
+    2300132: Restaurant_Ice cream_ Candy19
+    2300134: Restaurant_Ice cream_ Candy20
+    2300136: Restaurant_Ice cream_ Candy21
+    2300138: Restaurant_Ice cream_ Candy22
+    2300140: Restaurant_Ice cream_ Candy23
+    2300142: Restaurant_Ice cream_A lot of candy00
+    2300144: Restaurant_Ice cream_A lot of candy01
+    2300146: Restaurant_Ice cream_A lot of candy02
+    2300148: Restaurant_Ice cream_A lot of candy03
+    2300150: Restaurant_Ice cream_A lot of candy04
+    2300152: Restaurant_Ice cream_A lot of candy05
+    2300154: Restaurant_Ice cream_A lot of candy06
+    2300156: Restaurant_Ice cream_A lot of candy07
+    2300158: Restaurant_Ice cream_A lot of candy08
+    2300160: Restaurant_Ice cream_A lot of candy09
+    2300162: Restaurant_Ice cream_A lot of candy10
+    2300164: Restaurant_Ice cream_A lot of candy11
+    2300166: Restaurant_Ice cream_A lot of candy12
+    2300168: Restaurant_Ice cream_A lot of candy13
+    2300170: Restaurant_Ice cream_A lot of candy14
+    2300172: Restaurant_Ice cream_A lot of candy15
+    2300174: Restaurant_Ice cream_A lot of candy16
+    2300176: Restaurant_Ice cream_A lot of candy17
+    2300178: Restaurant_Ice cream_A lot of candy18
+    2300180: Restaurant_Ice cream_A lot of candy19
+    2300182: Restaurant_Ice cream_A lot of candy20
+    2300184: Restaurant_Ice cream_A lot of candy21
+    2300186: Restaurant_Ice cream_A lot of candy22
+    2300188: Restaurant_Ice cream_A lot of candy23
+    3300000: BingGan00
+    3300002: BingGan01
+    3300004: BingGan02
+    3300006: BingGan03
+    3300008: BingGan04
+    3300010: BingGan05
+    3300012: GuoRen00
+    3300014: GuoRen01
+    3300016: GuoRen02
+    3300018: GuoRen03
+    3300020: GuoRen04
+    3300022: GuoRen05
+    3300024: GuoRen06
+    3300026: GuoRen08
+    3300028: GuoRen09
+    3300030: GuoRen10
+    3300032: GuoRen11
+    3300034: GuoRen12
+    3300036: GuoRen13
+    3300038: TangGuo00
+    3300040: TangGuo01
+    3300042: TangGuo02
+    3300044: TangGuo03
+    3300046: TangGuo04
+    3300048: TangGuo05
+    3300050: TangGuo06
+    3300052: TangGuo07
+    3300054: TangGuo08
+    3300056: TangGuo09
+    3300058: TangGuo10
+    3300060: TangGuo11
+    3300062: TangGuo12
+    3300064: TangGuo13
+    3300066: TangGuo14
+    3300068: TangGuo15
+    3300070: TangGuo16
+    3300072: TangGuo17
+    3300074: TangGuo18
+    3300076: TangGuo19
+    3300078: TangGuo20
+    3300080: TangGuo21
+    3300082: TangGuo22
+    3300084: TangGuo23
+    3300086: TangGuo24
+    3300088: TangGuo25
+    3300090: TangGuo26
+    3300092: TangGuo27
+    3300094: Restaurant_Ice cream_ Candy00
+    3300096: Restaurant_Ice cream_ Candy01
+    3300098: Restaurant_Ice cream_ Candy02
+    3300100: Restaurant_Ice cream_ Candy03
+    3300102: Restaurant_Ice cream_ Candy04
+    3300104: Restaurant_Ice cream_ Candy05
+    3300106: Restaurant_Ice cream_ Candy06
+    3300108: Restaurant_Ice cream_ Candy07
+    3300110: Restaurant_Ice cream_ Candy08
+    3300112: Restaurant_Ice cream_ Candy09
+    3300114: Restaurant_Ice cream_ Candy10
+    3300116: Restaurant_Ice cream_ Candy11
+    3300118: Restaurant_Ice cream_ Candy12
+    3300120: Restaurant_Ice cream_ Candy13
+    3300122: Restaurant_Ice cream_ Candy14
+    3300124: Restaurant_Ice cream_ Candy15
+    3300126: Restaurant_Ice cream_ Candy16
+    3300128: Restaurant_Ice cream_ Candy17
+    3300130: Restaurant_Ice cream_ Candy18
+    3300132: Restaurant_Ice cream_ Candy19
+    3300134: Restaurant_Ice cream_ Candy20
+    3300136: Restaurant_Ice cream_ Candy21
+    3300138: Restaurant_Ice cream_ Candy22
+    3300140: Restaurant_Ice cream_ Candy23
+    3300142: Restaurant_Ice cream_A lot of candy00
+    3300144: Restaurant_Ice cream_A lot of candy01
+    3300146: Restaurant_Ice cream_A lot of candy02
+    3300148: Restaurant_Ice cream_A lot of candy03
+    3300150: Restaurant_Ice cream_A lot of candy04
+    3300152: Restaurant_Ice cream_A lot of candy05
+    3300154: Restaurant_Ice cream_A lot of candy06
+    3300156: Restaurant_Ice cream_A lot of candy07
+    3300158: Restaurant_Ice cream_A lot of candy08
+    3300160: Restaurant_Ice cream_A lot of candy09
+    3300162: Restaurant_Ice cream_A lot of candy10
+    3300164: Restaurant_Ice cream_A lot of candy11
+    3300166: Restaurant_Ice cream_A lot of candy12
+    3300168: Restaurant_Ice cream_A lot of candy13
+    3300170: Restaurant_Ice cream_A lot of candy14
+    3300172: Restaurant_Ice cream_A lot of candy15
+    3300174: Restaurant_Ice cream_A lot of candy16
+    3300176: Restaurant_Ice cream_A lot of candy17
+    3300178: Restaurant_Ice cream_A lot of candy18
+    3300180: Restaurant_Ice cream_A lot of candy19
+    3300182: Restaurant_Ice cream_A lot of candy20
+    3300184: Restaurant_Ice cream_A lot of candy21
+    3300186: Restaurant_Ice cream_A lot of candy22
+    3300188: Restaurant_Ice cream_A lot of candy23
+    4300000: GuoRen00
+    4300002: GuoRen01
+    4300004: GuoRen02
+    4300006: GuoRen03
+    4300008: GuoRen04
+    4300010: GuoRen05
+    4300012: GuoRen06
+    4300014: GuoRen08
+    4300016: GuoRen09
+    4300018: GuoRen10
+    4300020: GuoRen11
+    4300022: GuoRen12
+    4300024: GuoRen13
+    4300026: BingGan05
+    4300028: BingGan00
+    4300030: BingGan01
+    4300032: BingGan02
+    4300034: BingGan03
+    4300036: BingGan04
+    4300038: TangGuo26
+    4300040: TangGuo25
+    4300042: TangGuo02
+    4300044: TangGuo24
+    4300046: TangGuo23
+    4300048: TangGuo22
+    4300050: TangGuo27
+    4300052: TangGuo07
+    4300054: TangGuo08
+    4300056: TangGuo09
+    4300058: TangGuo10
+    4300060: TangGuo11
+    4300062: TangGuo12
+    4300064: TangGuo13
+    4300066: TangGuo00
+    4300068: TangGuo15
+    4300070: TangGuo16
+    4300072: TangGuo17
+    4300074: TangGuo18
+    4300076: TangGuo19
+    4300078: TangGuo20
+    4300080: TangGuo21
+    4300082: TangGuo06
+    4300084: TangGuo05
+    4300086: TangGuo04
+    4300088: TangGuo03
+    4300090: TangGuo01
+    4300092: TangGuo14
+    4300094: Restaurant_Ice cream_ Candy00
+    4300096: Restaurant_Ice cream_ Candy01
+    4300098: Restaurant_Ice cream_ Candy02
+    4300100: Restaurant_Ice cream_ Candy03
+    4300102: Restaurant_Ice cream_ Candy04
+    4300104: Restaurant_Ice cream_ Candy05
+    4300106: Restaurant_Ice cream_ Candy06
+    4300108: Restaurant_Ice cream_ Candy07
+    4300110: Restaurant_Ice cream_ Candy08
+    4300112: Restaurant_Ice cream_ Candy09
+    4300114: Restaurant_Ice cream_ Candy10
+    4300116: Restaurant_Ice cream_ Candy11
+    4300118: Restaurant_Ice cream_ Candy12
+    4300120: Restaurant_Ice cream_ Candy13
+    4300122: Restaurant_Ice cream_ Candy14
+    4300124: Restaurant_Ice cream_ Candy15
+    4300126: Restaurant_Ice cream_ Candy16
+    4300128: Restaurant_Ice cream_ Candy17
+    4300130: Restaurant_Ice cream_ Candy18
+    4300132: Restaurant_Ice cream_ Candy19
+    4300134: Restaurant_Ice cream_ Candy20
+    4300136: Restaurant_Ice cream_ Candy21
+    4300138: Restaurant_Ice cream_ Candy22
+    4300140: Restaurant_Ice cream_ Candy23
+    4300142: Restaurant_Ice cream_A lot of candy00
+    4300144: Restaurant_Ice cream_A lot of candy01
+    4300146: Restaurant_Ice cream_A lot of candy02
+    4300148: Restaurant_Ice cream_A lot of candy03
+    4300150: Restaurant_Ice cream_A lot of candy04
+    4300152: Restaurant_Ice cream_A lot of candy05
+    4300154: Restaurant_Ice cream_A lot of candy06
+    4300156: Restaurant_Ice cream_A lot of candy07
+    4300158: Restaurant_Ice cream_A lot of candy08
+    4300160: Restaurant_Ice cream_A lot of candy09
+    4300162: Restaurant_Ice cream_A lot of candy10
+    4300164: Restaurant_Ice cream_A lot of candy11
+    4300166: Restaurant_Ice cream_A lot of candy12
+    4300168: Restaurant_Ice cream_A lot of candy13
+    4300170: Restaurant_Ice cream_A lot of candy14
+    4300172: Restaurant_Ice cream_A lot of candy15
+    4300174: Restaurant_Ice cream_A lot of candy16
+    4300176: Restaurant_Ice cream_A lot of candy17
+    4300178: Restaurant_Ice cream_A lot of candy18
+    4300180: Restaurant_Ice cream_A lot of candy19
+    4300182: Restaurant_Ice cream_A lot of candy20
+    4300184: Restaurant_Ice cream_A lot of candy21
+    4300186: Restaurant_Ice cream_A lot of candy22
+    4300188: Restaurant_Ice cream_A lot of candy23
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

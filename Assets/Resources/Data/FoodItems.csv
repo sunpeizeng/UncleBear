@@ -1,0 +1,9 @@
+ID,LockAtBeginning,CoinUnlockCost,LocalizedKey,LocalizedDescriptionKey,IconForSell,DefaultPrice_CNY,DefaultPrice_USD,ShowOnMenu
+item_finished_pizza,true,200,Img_Pizza_Name,Img_Pizza_Desc,UIFoodAtlas/pizza_for_sell,1.00,0.99,true
+item_finished_farfalle,true,200,Img_Farfalle_Name,Img_Farfalle_Desc,UIFoodAtlas/farfalle_for_sell,1.00,0.99,true
+item_finished_cupcake,false,0,Img_Cupcake_Name,,,,,true
+item_finished_sushi,false,0,Img_Sushi_Name,,,,,true
+item_finished_salad,false,0,Img_Salad_Name,,,,,true
+item_finished_hamburger,false,0,Img_Hamburger_Name,,,,,true
+item_foodpackage,true,600,Img_Foodpackage_Name,Img_Foodpackage_Desc,UIFoodAtlas/foodpackage_for_sell,1.00,0.99,false
+item_finished_icecream,true,200,Img_Icecream_Name,Img_Icecream_Desc,UIFoodAtlas/icecream_for_sell,1.00,0.99,true

@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: fc61e986817350a46bc2a07eee6a1926
+timeCreated: 1500275147
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: GuoRen01
+    100002: GuoRen04
+    100004: GuoRen05
+    100006: GuoRen08
+    100008: GuoRen09
+    100010: GuoRen10
+    100012: GuoRen12
+    100014: Restaurant_Ice cream_Nuts (1)
+    100016: Restaurant_Ice cream_Nuts (2)
+    100018: Restaurant_Ice cream_Nuts (3)
+    100020: Restaurant_Ice cream_Nuts (4)
+    100022: Restaurant_Ice cream_Nuts (5)
+    100024: Restaurant_Ice cream_Nuts (6)
+    100026: //RootNode
+    400000: GuoRen01
+    400002: GuoRen04
+    400004: GuoRen05
+    400006: GuoRen08
+    400008: GuoRen09
+    400010: GuoRen10
+    400012: GuoRen12
+    400014: Restaurant_Ice cream_Nuts (1)
+    400016: Restaurant_Ice cream_Nuts (2)
+    400018: Restaurant_Ice cream_Nuts (3)
+    400020: Restaurant_Ice cream_Nuts (4)
+    400022: Restaurant_Ice cream_Nuts (5)
+    400024: Restaurant_Ice cream_Nuts (6)
+    400026: //RootNode
+    2300000: GuoRen01
+    2300002: GuoRen04
+    2300004: GuoRen05
+    2300006: GuoRen08
+    2300008: GuoRen09
+    2300010: GuoRen10
+    2300012: GuoRen12
+    2300014: Restaurant_Ice cream_Nuts (1)
+    2300016: Restaurant_Ice cream_Nuts (2)
+    2300018: Restaurant_Ice cream_Nuts (3)
+    2300020: Restaurant_Ice cream_Nuts (4)
+    2300022: Restaurant_Ice cream_Nuts (5)
+    2300024: Restaurant_Ice cream_Nuts (6)
+    3300000: GuoRen01
+    3300002: GuoRen04
+    3300004: GuoRen05
+    3300006: GuoRen08
+    3300008: GuoRen09
+    3300010: GuoRen10
+    3300012: GuoRen12
+    3300014: Restaurant_Ice cream_Nuts (1)
+    3300016: Restaurant_Ice cream_Nuts (2)
+    3300018: Restaurant_Ice cream_Nuts (3)
+    3300020: Restaurant_Ice cream_Nuts (4)
+    3300022: Restaurant_Ice cream_Nuts (5)
+    3300024: Restaurant_Ice cream_Nuts (6)
+    4300000: Restaurant_Ice cream_Nuts (4)
+    4300002: Restaurant_Ice cream_Nuts (5)
+    4300004: Restaurant_Ice cream_Nuts (6)
+    4300006: Restaurant_Ice cream_Nuts (2)
+    4300008: Restaurant_Ice cream_Nuts (1)
+    4300010: Restaurant_Ice cream_Nuts (3)
+    4300012: GuoRen04
+    4300014: GuoRen09
+    4300016: GuoRen10
+    4300018: GuoRen08
+    4300020: GuoRen01
+    4300022: GuoRen05
+    4300024: GuoRen12
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

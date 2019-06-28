@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8554838fbdfd5c44f9a3cfcddb1a5a7a, type: 3}
+  m_Name: DoozyUI_Data
+  m_EditorClassIdentifier: 
+  elementNames:
+  - elementName: ~Element Name~
+  - elementName: InGameHud
+  - elementName: MainMenu
+  - elementName: MusicOFF
+  - elementName: MusicON
+  - elementName: NotificationsMenu
+  - elementName: PauseMenu
+  - elementName: QuitMenu
+  - elementName: SettingsMenu
+  - elementName: ShopMenu
+  - elementName: SoundOFF
+  - elementName: SoundON
+  - elementName: Tab_1
+  - elementName: Tab_2
+  - elementName: Tab_3
+  - elementName: UIBuy
+  - elementName: UIContinueButton
+  - elementName: UICover
+  - elementName: UIExitConfirm
+  - elementName: UIExitConfirm_Popup
+  - elementName: UIGameHUD
+  - elementName: UIHomeButton
+  - elementName: UIInsufficientCoins
+  - elementName: UILoading
+  - elementName: UIPanelDishJudgement
+  - elementName: UIPanelDishLevel
+  - elementName: UIPanelGuide
+  - elementName: UIParentNote
+  - elementName: UIParentVerification
+  - elementName: UIPromotionWebView
+  - elementName: UIRenderChara
+  - elementName: UIReturnButton
+  - elementName: UIStartPanel
+  - elementName: UIStartPanel_Parent
+  - elementName: UIStartPanel_Promotion
+  - elementName: UIStartPanel_RateUs
+  - elementName: UIUnlockFood
+  - elementName: UIUnlockPackage
+  - elementName: UIVungle
+  elementSounds:
+  - soundName: ~No Sound~
+  buttonNames:
+  - buttonName: ~Button Name~
+  - buttonName: ApplicationQuit
+  - buttonName: Back
+  - buttonName: Button_1
+  - buttonName: Button_2
+  - buttonName: Button_3
+  - buttonName: ContinueButton
+  - buttonName: GoToInGameHud
+  - buttonName: GoToMainMenu
+  - buttonName: GoToPauseMenu
+  - buttonName: GoToQuitMenu
+  - buttonName: GoToSettingsMenu
+  - buttonName: GoToShopMenu
+  - buttonName: HomeButton
+  - buttonName: ToggleMusic
+  - buttonName: TogglePause
+  - buttonName: ToggleSound
+  buttonSounds:
+  - onClickSound: ~No Sound~
+  - onClickSound: "1\u6309\u952E"

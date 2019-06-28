@@ -1,0 +1,15 @@
+State,Clips
+IdleStanding,
+WaitFeed,Stand_down
+Move,walk
+Greet,greet
+Wait,Standby
+SitDown,sit_down
+StandUp,Got_up
+Eat,Eat
+Happy,It_was_nice_to_see_the_food
+Sad,Food_is_unpalatable
+TransDish,
+TakeNotes,
+Pay,Put_money
+Agree,nod
